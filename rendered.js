@@ -1,0 +1,1 @@
+// Aquí escribiremos el código necesario para configurar el aspecto visual de nuestra ventana

@@ -1,0 +1,29 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicación de escritorio multiplataforma en Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z23017381/Electron-Curso.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritorio",
+    "Multiplataforma",
+    "Node.js",
+    "Chromium"
+  ],
+  "author": "Rene Emiliano Sánchez Saucedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z23017381/Electron-Curso/issues"
+  },
+  "homepage": "https://github.com/z23017381/Electron-Curso#readme",
+  "devDependencies": {
+    "electron": "^35.1.2"
+  }
+}
